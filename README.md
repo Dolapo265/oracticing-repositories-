@@ -1,2 +1,2 @@
-# oracticing-repositories-
-practicing git repositiries 
+# Practicing-repositories-
+practicing git repositories 
